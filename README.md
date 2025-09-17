@@ -23,8 +23,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dianaavila94520](https://github.com/dianaavila94520)
 
 - 💬 Ask me about **React, Next.js, and whether CSS Grid is better than Flexbox (it is, sometimes).**
-- ⚡ Fun fact **I'm secretly Spider‑Man. I mean, who else swings between tasks at lightning speed?**
-- 
+- ⚡ Fun fact
+-  **I'm secretly Spider‑Man. I mean, who else swings between tasks at lightning speed?**
+-  **I once fixed a bug by staring at the screen for 17 minutes — it worked.
+  -Favorite keyboard shortcut: Ctrl/Cmd+S (emotional support included).
+**
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dianaavila94520&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
