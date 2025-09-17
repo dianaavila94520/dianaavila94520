@@ -2,7 +2,16 @@
 
 <h3 align="center">A passionate Full Stack Web Developer from Africa!</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaavila94520&show_icons=true&locale=en&layout=compact" alt="dianaavila94520" /></p>
+<div align="center">
+  <img height="200" src="https://c.tenor.com/5fTXcbu5_x0AAAAd/tenor.gif"  />
+</div>
+<br clear="both">
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dianaavila94520&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 
 - 🔭 I’m currently working on [Holo-Card-Pokmon-Battle-Arena(https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
@@ -29,7 +38,7 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-
+<img align="right" height="200" src="https://c.tenor.com/xtjwnNUUUo8AAAAC/tenor.gif"  />
 
 <h2 align="left">Skills:</h2>
 <h3 align="left">Programming Languages:</h3>
@@ -84,8 +93,9 @@
 </div>
 
 <h3 align="left">Play games with me:</h3>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dianaavila94520/dianaavila94520/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dianaavila94520/dianaavila94520/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dianaavila94520/dianaavila94520/output/pacman-contribution-graph.svg">
 </picture>
