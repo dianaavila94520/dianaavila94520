@@ -90,6 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="50" alt="insomnia logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="60" alt="cloudflare logo"  />
 </div>
 
 <h4 align="left">Play games with me:</h4>
