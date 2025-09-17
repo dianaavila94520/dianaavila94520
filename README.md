@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate Full Stack Web Developer from Africa!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dianaavila94520" alt="dianaavila94520" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaavila94520&show_icons=true&locale=en&layout=compact" alt="dianaavila94520" /></p>
 
 
-
-- 🔭 I’m currently working on [Holo-Card-Pokmon-Battle-Arena](a suspiciously addictive productivity tool that may or may not include a button labeled "Ship it".)
+- 🔭 I’m currently working on [Holo-Card-Pokmon-Battle-Arena(https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
+ a suspiciously addictive productivity tool that may or may not include a button labeled "Ship it".
 
 - 🌱 I’m currently learning **TypeScript, frontend unit testing for React apps, and the ancient art of making APIs fast.**
 
@@ -21,8 +21,6 @@
 - ⚡ Fun fact **I'm secretly Spider‑Man. I mean, who else swings between tasks at lightning speed?**
 
 <h3 align="left">Connect with me:</h3>
-
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -34,10 +32,7 @@
 
 
 <h2 align="left">Skills:</h2>
-
 <h3 align="left">Programming Languages:</h3>
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -45,9 +40,6 @@
 </div>
 
 <h3 align="left">Frontend Development:</h3>
-
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
@@ -65,8 +57,6 @@
 </div>
 
 <h3 align="left">Backend Development:</h3>
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
@@ -76,8 +66,6 @@
 </div>
 
 <h3 align="left">Database:</h3>
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
   <img width="12" />
@@ -87,8 +75,6 @@
 </div>
 
 <h3 align="left">Testing & Api :</h3>
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="jest logo"  />
   <img width="12" />
@@ -96,3 +82,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
+
+<h3 align="left">Play games with me:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
