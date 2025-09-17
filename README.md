@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-###
+
 <h3 align="center">A passionate Full Stack Web Developer from Africa!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dianaavila94520" alt="dianaavila94520" /></a> </p>
 
-###
+
 
 - 🔭 I’m currently working on [Holo-Card-Pokmon-Battle-Arena](a suspiciously addictive productivity tool that may or may not include a button labeled "Ship it".)
 
@@ -21,7 +21,7 @@
 - ⚡ Fun fact **I'm secretly Spider‑Man. I mean, who else swings between tasks at lightning speed?**
 
 <h3 align="left">Connect with me:</h3>
-###
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-###
+
 
 <h2 align="left">Skills:</h2>
 
 <h3 align="left">Programming Languages:</h3>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
@@ -45,7 +45,7 @@
 </div>
 
 <h3 align="left">Frontend Development:</h3>
-###
+
 
 
 <div align="center">
@@ -65,7 +65,7 @@
 </div>
 
 <h3 align="left">Backend Development:</h3>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
@@ -76,7 +76,7 @@
 </div>
 
 <h3 align="left">Database:</h3>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
@@ -87,7 +87,7 @@
 </div>
 
 <h3 align="left">Testing & Api :</h3>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="jest logo"  />
