@@ -16,6 +16,10 @@
 
 - 👯 I’m looking to collaborate on [OhMyForm](https://github.com/ohmyform/ohmyform)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dianaavila94520&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
 - 👨‍💻 All of my projects are available at [https://github.com/dianaavila94520](https://github.com/dianaavila94520)
 
 - 💬 Ask me about **React, Next.js, and whether CSS Grid is better than Flexbox (it is, sometimes).**
@@ -97,3 +101,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dianaavila94520.dianaavila94520&"  />
 </div>
+
+
