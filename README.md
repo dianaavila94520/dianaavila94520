@@ -7,9 +7,7 @@
 </div>
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dianaavila94520&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 - 🔭 I’m currently working on [Holo-Card-Pokmon-Battle-Arena](https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
   a suspiciously addictive productivity tool that may or may not include a button labeled "Ship it".
@@ -22,6 +20,10 @@
 
 - 💬 Ask me about **React, Next.js, and whether CSS Grid is better than Flexbox (it is, sometimes).**
 - ⚡ Fun fact **I'm secretly Spider‑Man. I mean, who else swings between tasks at lightning speed?**
+- 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dianaavila94520&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <h4 align="left">Connect with me:</h4>
 <div align="left">
