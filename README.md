@@ -207,7 +207,8 @@
 
 ![](https://m3-markdown-badges.vercel.app/stars/1/1/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
 
-![](https://github-contributor-stats.vercel.app/api?username=sd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h4 align="center"> ✨ Contributor-stats </h4>
+![](https://github-contributor-stats.vercel.app/api?username=dianaavila94520&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
