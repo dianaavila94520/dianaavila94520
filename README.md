@@ -206,8 +206,7 @@
 
 ![](https://m3-markdown-badges.vercel.app/stars/1/1/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
 
-    <!--  [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=dianaavila94520&repo=Holo-Card-Pokmon-Battle-Arena&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)-->
-
+    Most Stars Repositories :  https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena
 
 <h4 align="center"> ✨ Contributor-stats </h4>
 
