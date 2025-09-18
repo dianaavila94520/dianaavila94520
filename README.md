@@ -207,10 +207,7 @@
 
 ![](https://m3-markdown-badges.vercel.app/stars/1/1/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
 
-
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=dianaavila94520&repo=Holo-Card-Pokmon-Battle-Arena&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
-
+![](https://github-contributor-stats.vercel.app/api?username=sd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
