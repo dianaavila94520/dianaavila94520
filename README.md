@@ -193,6 +193,9 @@
 <!-- Photography Section -->
 <div align="center">
 <h3> 📱 Check Out My Streak Stats</h3>
+
+![](https://github-contribution-stats.vercel.app/api/?username=dianaavila94520)
+ 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dianaavila94520&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order= 
 </div>
