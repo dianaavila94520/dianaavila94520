@@ -46,14 +46,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dianaavila94520&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=monokai"  width="45%" alt="stats graph"  />
 </p>
  <!-- Github Readme Stats -->
-
- <!-- Waka Time in Depth Stats -->
-<p align="center">
-<a herf = "https://wakatime.com/@dianaavila94520">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dianaavila94520&theme=monokai&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
-</p>
-  <!-- Waka Time in Depth Stats -->
-
   <!-- Github Profile Summary Cards -->
 <p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dianaavila94520&theme=monokai"  />
@@ -213,8 +205,7 @@
 
 <h4 align="center"> ✨ Most Stars Repositories</h4>
 
-![](https://m3-markdown-badges.vercel.app/stars/1/1/dianaavila94520/GitHub-Tutorial)
-![](https://m3-markdown-badges.vercel.app/stars/3/2/dianaavila94520/SWE-3-2-Semester-Resources)
+![](https://m3-markdown-badges.vercel.app/stars/1/1/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=dianaavila94520&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/dianaavila94520/GitHub-Tutorial)
 
