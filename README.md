@@ -22,8 +22,8 @@
 <br>
 <div align="center" width="150px">
 
-- 🔭 I am currently <b>working on </b> **[Holo-Card-Pokmon-Battle-Arena](https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)**. -
-  a suspiciously addictive productivity tool that may or may not include a button labeled "Ship it". <br />
+- 🔭 I am currently <b>working on </b> **[Holo-Card-Pokmon-Battle-Arena](https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)**.
+- a suspiciously addictive productivity tool that may or may not include a button labeled "Ship it". <br />
 - 🌱 I’m currently learning **TypeScript, frontend unit testing for React apps, and the ancient art of making APIs fast.** <br />
 
 </div>
