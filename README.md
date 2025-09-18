@@ -206,7 +206,7 @@
 
 ![](https://m3-markdown-badges.vercel.app/stars/1/1/dianaavila94520/Holo-Card-Pokmon-Battle-Arena)
 
-    Most Stars Repositories :  https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena
+     https://github.com/dianaavila94520/Holo-Card-Pokmon-Battle-Arena
 
 <h4 align="center"> ✨ Contributor-stats </h4>
 
